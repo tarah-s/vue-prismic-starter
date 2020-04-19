@@ -1,0 +1,24 @@
+article {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	padding-bottom: var(--spacing-xl);
+
+    header {
+        display: flex;
+		flex-direction: column;
+
+		img {
+			border-radius: var(--radius-md);
+			overflow: hidden;
+			margin-bottom: var(--spacing-md);
+		}
+    }
+ 
+    section {
+		padding: var(--spacing-lg);
+		flex: 1;
+		overflow: auto;
+    } 
+}
+ 
