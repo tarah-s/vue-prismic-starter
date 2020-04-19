@@ -3,7 +3,7 @@
   "description": "Ready-made starting point for Vue and Prismic blog using modal with custom router url",
   "author": "tarah-s",
   "version": "0.1.0",
-  "repository": "github.com/tarah-s/modal-router-prismic-vuejs-starter",
+  "repository": "https://github.com/tarah-s/vue-prismic-starter",
   "keywords": [
     "vue",
     "vuex",
